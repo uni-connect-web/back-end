@@ -1,0 +1,8 @@
+git init
+touch README.md
+git add helloworld.py README.md
+git commit -m "Initial commit"
+git remote add origin <repository_url>
+git branch -M main
+git push -u origin main
+
